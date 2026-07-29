@@ -1,0 +1,15 @@
+import canonicalLaneMathlib.CanonicalAdmissibleClass
+import canonicalLaneMathlib.BridgeLemmas
+import canonicalLaneMathlib.GateLemmas
+import canonicalLaneMathlib.FinalTheorem
+import canonicalLaneMathlib.CanonicalObjectDefinitions
+import canonicalLaneMathlib.CanonicalLaneMathlibCore
+import canonicalLaneMathlib.CanonicalClosureProof
+
+namespace HautevilleHouse
+namespace CanonicalStructureCanonicalLaneLean
+
+-- Root module: imports all domain-specific files
+
+end CanonicalStructureCanonicalLaneLean
+end HautevilleHouse
